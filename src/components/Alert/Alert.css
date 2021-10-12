@@ -1,0 +1,17 @@
+.alert {
+  width: 100%;
+  text-align: center;
+}
+.ant-alert-message {
+  text-transform: uppercase;
+  letter-spacing: 10px;
+}
+.alert__content-text_title {
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+.alert__content-btn {
+  width: 20%;
+  margin-top: 10px;
+}
